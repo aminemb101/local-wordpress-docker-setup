@@ -1,0 +1,39 @@
+services:
+  wp-php:
+    container_name: wp-php
+    build: './dockerfiles/php'
+    volumes:
+      - './Sites:/var/www/html'
+      - './docker-fpm.ini:/usr/local/etc/php/conf.d/docker-fpm.ini'
+      - './php:/usr/local/etc/php'
+    dns:
+      - 8.8.8.8
+    extra_hosts:
+      - "pintabo.local:host-gateway"
+      - "host.docker.internal:host-gateway"  
+
+  wp-nginx:
+    container_name: wp-nginx
+    build: './dockerfiles/nginx'
+    ports: ['80:80']
+    volumes:
+      - './Sites:/var/www/html'
+      - './vhosts:/etc/nginx/conf.d'
+    depends_on:
+      - wp-php
+      
+  wp-mariadb:
+    container_name: wp-mariadb
+    image: yobasystems/alpine-mariadb
+    ports: ['3306:3306']
+    environment:
+      MYSQL_ROOT_PASSWORD: hguyFtgfR4r9R4r76
+    volumes:
+      - 'wp-db-1:/var/lib/mysql'
+
+volumes: 
+  wp-db-1:
+
+
+
+

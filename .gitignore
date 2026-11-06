@@ -1,0 +1,14 @@
+# Folders starting with "Sites"
+Sites*/
+
+# Composer
+vendor/
+composer.lock
+composer.phar
+
+# npm / Node.js
+node_modules/
+package-lock.json
+yarn.lock
+yarn-error.log
+.npm/

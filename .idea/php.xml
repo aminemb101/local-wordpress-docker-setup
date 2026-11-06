@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <phpcs_by_interpreter asDefaultInterpreter="true" interpreter_id="e170fde2-692a-4b37-af48-9626824a2163" timeout="30000" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/ewww-image-optimizer/vendor/lsolesen/pel" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/ewww-image-optimizer/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/make-section-column-clickable-elementor/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/make-section-column-clickable-elementor/vendor/appsero/client" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/query-monitor/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/mu-plugins/pagespeed-filters/vendor/woocommerce/action-scheduler" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/mu-plugins/pagespeed-filters/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/mu-plugins/pagespeed-filters/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/mu-plugins/pagespeed-filters/vendor/voku/simple_html_dom" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/cloudflare/cf-ip-rewrite" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/studio-42/elfinder" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/bitapps/wp-telemetry" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/bitapps/wp-validator" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/bitapps/wp-kit" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/bitapps/wp-database" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/multigaz.local/wp-content/plugins/instagram-feed/vendor/smashballoon/stubs" />
+      <path value="$PROJECT_DIR$/Sites/multigaz.local/wp-content/plugins/instagram-feed/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/wordpress-importer/php-toolkit/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/scssphp/scssphp" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-sync" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/wikimedia/aho-corasick" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-plans" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/composer" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-roles" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-backup" />
+      <path value="$PROJECT_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection" />
+    </include_path>
+  </component>
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <phpstan_by_interpreter asDefaultInterpreter="true" interpreter_id="e170fde2-692a-4b37-af48-9626824a2163" timeout="60000" />
+    </PhpStan_settings>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="Psalm">
+    <Psalm_settings>
+      <psalm_fixer_by_interpreter asDefaultInterpreter="true" interpreter_id="e170fde2-692a-4b37-af48-9626824a2163" timeout="60000" />
+    </Psalm_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

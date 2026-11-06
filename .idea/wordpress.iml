@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/bookly-responsive-appointment-booking-tool" isTestSource="false" packagePrefix="Bookly" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/elementor/includes" isTestSource="false" packagePrefix="Elementor" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/elementor/includes/elements" isTestSource="false" packagePrefix="Elementor" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/elementor/includes/settings" isTestSource="false" packagePrefix="Elementor" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/elementskit-lite" isTestSource="false" packagePrefix="ElementsKit_Lite" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/elementskit-lite/helpers" isTestSource="false" packagePrefix="ElementsKit_Lite" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/forminator/library/lib/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/host-webfonts-local/src" isTestSource="false" packagePrefix="OMGF" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/wp-mail-smtp/src" isTestSource="false" packagePrefix="WPMailSMTP" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-content/plugins/wpvivid-backuprestore/includes/lib/aws-sdk-php-2.8.31/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+      <sourceFolder url="file://$MODULE_DIR$/Sites/empreinte.local/wp-includes/SimplePie/src" isTestSource="false" packagePrefix="SimplePie" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/multigaz.local/wp-content/plugins/instagram-feed/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/multigaz.local/wp-content/plugins/instagram-feed/vendor/smashballoon/stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/mu-plugins/pagespeed-filters/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/mu-plugins/pagespeed-filters/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/mu-plugins/pagespeed-filters/vendor/voku/simple_html_dom" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/mu-plugins/pagespeed-filters/vendor/woocommerce/action-scheduler" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/bitapps/wp-database" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/bitapps/wp-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/bitapps/wp-telemetry" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/bitapps/wp-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/file-manager/vendor/studio-42/elfinder" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-backup" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-plans" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-roles" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/automattic/jetpack-sync" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/scssphp/scssphp" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/jetpack/vendor/wikimedia/aho-corasick" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/pintabo.local/wp-content/plugins/wordpress-importer/php-toolkit/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/cloudflare/cf-ip-rewrite" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/cloudflare/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/ewww-image-optimizer/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/ewww-image-optimizer/vendor/lsolesen/pel" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/make-section-column-clickable-elementor/vendor/appsero/client" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/make-section-column-clickable-elementor/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Sites/sophie.local/wp-content/plugins/query-monitor/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
